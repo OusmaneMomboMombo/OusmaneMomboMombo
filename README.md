@@ -35,6 +35,7 @@
 ![Web Scraping](https://img.shields.io/badge/Web_Scraping-2E8B57)
 ![Data Automation](https://img.shields.io/badge/Data_Automation-228B22)
 ![Data Processing](https://img.shields.io/badge/Data_Processing-483D8B)
+![Data Analysis](https://img.shields.io/badge/Data_Processing-FF6F00)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF)
 ![Dimensionality Reduction](https://img.shields.io/badge/Dimensionality_Reduction-9370DB)
 ![PCA](https://img.shields.io/badge/PCA-1E90FF)
