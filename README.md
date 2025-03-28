@@ -64,9 +64,18 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 
 ### ▸ Soft Skills
-![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-1E90FF)
-![Communication](https://img.shields.io/badge/Oral_Communication-FF8C00)
-![Teamwork](https://img.shields.io/badge/Teamwork-32CD32)
+![Analytical Mind](https://img.shields.io/badge/Analytical_Mind-1E90FF)
+![Interpersonal Skills](https://img.shields.io/badge/Interpersonal_Skills-32CD32)
+![Critical Thinking](https://img.shields.io/badge/Critical_Thinking-483D8B)
+![Team Spirit](https://img.shields.io/badge/Team_Spirit-32CD32)
+![Rigor](https://img.shields.io/badge/Rigor-4169E1)
+![Autonomy](https://img.shields.io/badge/Autonomy-9370DB)
+![Adaptability](https://img.shields.io/badge/Adaptability-FF8C00)
+![Flexibility](https://img.shields.io/badge/Flexibility-FF8C00)
+![Creativity](https://img.shields.io/badge/Creativity-8A2BE2)
+![Curiosity](https://img.shields.io/badge/Curiosity-8A2BE2)
+![Oral Communication](https://img.shields.io/badge/Oral_Communication-FF8C00)
+![Presentation Skills](https://img.shields.io/badge/Presentation_Skills-FF8C00)
 ![AI Ethics](https://img.shields.io/badge/AI_Ethics-483D8B)
 
 </div>
