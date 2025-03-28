@@ -27,28 +27,33 @@
 
 <div align="center">
 
-### ▸ Advanced Data Techniques
+### ▸ Advanced Techniques
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00)
 ![Deep Learning](https://img.shields.io/badge/Deep_Learning-EE4C2C)
 ![NLP](https://img.shields.io/badge/NLP-8A2BE2)
+![Time Series](https://img.shields.io/badge/Time_Series-4169E1)
+![Web Scraping](https://img.shields.io/badge/Web_Scraping-2E8B57)
+![Data Automation](https://img.shields.io/badge/Data_Automation-228B22)
+![Data Processing](https://img.shields.io/badge/Data_Processing-483D8B)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-1E90FF)
+![Dimensionality Reduction](https://img.shields.io/badge/Dimensionality_Reduction-9370DB)
 ![PCA](https://img.shields.io/badge/PCA-1E90FF)
 ![Cloud Computing](https://img.shields.io/badge/Cloud_Computing-228B22)
 ![Big Data](https://img.shields.io/badge/Big_Data-483D8B)
-![Web Scraping](https://img.shields.io/badge/Web_Scraping-2E8B57)
 ![RAG](https://img.shields.io/badge/RAG_Architecture-9370DB)
-![Time Series](https://img.shields.io/badge/Time_Series-4169E1)
+![Deployment](https://img.shields.io/badge/Deployment-FF6F00)
 
-### ▸ Programming Languages
+### ▸ Languages & Tools
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white)
-
-### ▸ Data Science Tools
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-5C8DBC?logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?logo=python&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?logo=scipy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit_learn-F7931E?logo=scikit-learn&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
@@ -57,12 +62,6 @@
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-228B22?logo=python&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-
-
-### ▸ Visualization
-![Tableau](https://img.shields.io/badge/Tableau-E97627?logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Excel-217346?logo=microsoftexcel&logoColor=white)
 
 ### ▸ Soft Skills
 ![Analytical Thinking](https://img.shields.io/badge/Analytical_Thinking-1E90FF)
