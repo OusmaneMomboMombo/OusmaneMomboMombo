@@ -1,7 +1,9 @@
 <div align="center">
   
 <!-- Animation premium avec effets avancés -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1200&color=1E40AF&background=45FF8B00&center=true&vCenter=true&width=650&height=110&lines=%F0%9F%91%8B+Hello+World;🚀 I'm+Ousmane+MOMBO+MOMBO;%F0%9F%92%BB+Transforming+Data+Into+Decisions;%F0%9F%93%8A+Architecting+Intelligent+Systems;%F0%9F%A4%96+Pushing+AI+Ethics+Forward;%F0%9F%93%88+From+Raw+Data+To+Strategic+Insights;%E2%9A%99%EF%B8%8F+Where+Algorithms+Meet+Business+Value;%F0%9F%8E%AF+Solving+Complex+Problems+With+AI?v=2" alt="Data Science Header Animation" />
+<a href="https://ousmanemombomombo.github.io">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=1E40AF&background=45FF8B00&center=true&vCenter=true&width=700&height=90&lines=Hello+World+%F0%9F%91%8B;I'm+Ousmane+MOMBO+MOMBO+🚀;Transforming+Data+Into+Decisions;Architecting+Intelligent+Systems" alt="Data Science Header" />
+</a>
 
 </div>
 
