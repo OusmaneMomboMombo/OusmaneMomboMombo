@@ -92,6 +92,8 @@
   Designed AI solutions to optimize automotive claims processing
 
 ### 🎓 Academic Projects (School-Enterprise Partnerships)
+- **AI Chatbot Developer** for Île-de-France Region and Metapolis
+  Built RAG chatbot with Mistral/Llama3 models • Automated SQL query generation from natural language
 - **Data Automation Engineer** for Fairmat  
   Built web scraping pipeline collecting 14,000+ product records • Reduced duplicates by 45%
 - **Fashion Trend Analyst** for Consult-Trends  
