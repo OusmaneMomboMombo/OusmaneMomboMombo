@@ -2,9 +2,7 @@
   
 <!-- Animation premium avec effets avancés -->
 <a href="https://ousmanemombomombo.github.io">
-  <a href="https://ousmanemombomombo.github.io">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=1E40AF&background=45FF8B00&center=true&vCenter=true&width=700&height=90&lines=Hello+World+%F0%9F%91%8B;I'm+Ousmane+MOMBO+MOMBO+🚀;Transforming+Data+Into+Decisions;Architecting+Intelligent+Systems" alt="Data Science Header" />
-</a>
 </a>
 
 </div>
