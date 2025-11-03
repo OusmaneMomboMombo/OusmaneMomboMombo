@@ -2,7 +2,7 @@
   
 <!-- Header Animation -->
 <a href="https://ousmanemombomombo.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1200&color=1E40AF&background=45FF8B00&center=true&vCenter=true&width=650&height=110&lines=%F0%9F%91%8B+Hello+World;%F0%9F%9A%80+I%27m+Ousmane+MOMBO+MOMBO;%F0%9F%92%BB+Junior+Data+Scientist;%F0%9F%93%8A+Transforming+Data+Into+Decisions;%F0%9F%A4%96+Machine+Learning+%26+Data+Viz;%F0%9F%93%88+Data+To+Strategic+Insights;%E2%9A%99%EF%B8%8F+Where+Algorithms+Meet+Business+Value;%F0%9F%8E%AF+Solving+Complex+AI+Problems" alt="Data Science Header Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=2800&pause=1200&color=1E40AF&background=45FF8B00&center=true&vCenter=true&width=650&height=110&lines=%F0%9F%91%8B+Hello+World;%F0%9F%9A%80+I%27m+Ousmane+MOMBO+MOMBO;%F0%9F%92%BB+Junior+Data+Scientist+/+Data+Analyst;%F0%9F%93%8A+Transforming+Data+Into+Decisions;%F0%9F%A4%96+Machine+Learning+%26+Data+Viz;%F0%9F%93%88+Data+To+Strategic+Insights;%E2%9A%99%EF%B8%8F+Where+Algorithms+Meet+Business+Value;%F0%9F%8E%AF+Solving+Complex+AI+Problems" alt="Data Science Header Animation" />
 </a>
 
 </div>
